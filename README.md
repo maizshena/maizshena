@@ -47,7 +47,5 @@ Student · Fullstack Developer · UI/UX Designer
 [![Email](https://img.shields.io/badge/shainaabinaya@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shainaabinaya@gmail.com)
 
 <br>
-
-<img src="https://lanyard.vercel.app/api/903509469860876309?theme=dark&bg=1a1b27" />
-
+<img src="https://lanyard.vercel.app/api/903509469860876309?theme=dark&bg=1a1b27&mode=spotify" />
 </div>
