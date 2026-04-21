@@ -1,12 +1,4 @@
-
-
-```
-Student · Fullstack Developer · UI/UX Designer
-```
-
----
-
-## Stack
+## 🛠️Tech Stack
 
 **Frontend Development**
 
@@ -47,5 +39,12 @@ Student · Fullstack Developer · UI/UX Designer
 [![Email](https://img.shields.io/badge/shainaabinaya@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shainaabinaya@gmail.com)
 
 <br>
-<img src="https://lanyard.vercel.app/api/903509469860876309?theme=dark&bg=1a1b27&mode=spotify" />
+
+<div align="center">
+  <br>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=4byma0motss7fl1qt0v3kj7j6&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4byma0motss7fl1qt0v3kj7j6&cover_image=true&theme=apple&show_offline=true&background_color=303030&interchange=true&profanity=false&mode=light" alt="spotify-github-profile">
+  </a>
+</div>
+
 </div>
