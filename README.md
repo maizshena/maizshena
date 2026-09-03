@@ -36,15 +36,8 @@
 
 [![Instagram](https://img.shields.io/badge/@maizshena-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/maizshena)
 [![GitHub](https://img.shields.io/badge/maizshena-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maizshena)
-[![Email](https://img.shields.io/badge/shainaabinaya@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shainaabinaya@gmail.com)
+[![Email](https://img.shields.io/badge/shainaabinaya@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shainabinaya@gmail.com)
 
 <br>
-
-<div align="center">
-  <br>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=4byma0motss7fl1qt0v3kj7j6&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4byma0motss7fl1qt0v3kj7j6&cover_image=true&theme=apple&show_offline=true&background_color=303030&interchange=true&profanity=false&mode=light" alt="spotify-github-profile">
-  </a>
-</div>
 
 </div>
